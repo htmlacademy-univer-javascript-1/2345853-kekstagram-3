@@ -13,5 +13,5 @@ function createObjects() {
     photos.push(photo);
   }
 }
-
+createObjects();
 export {photos};
