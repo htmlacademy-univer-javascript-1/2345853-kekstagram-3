@@ -1,7 +1,8 @@
-import {RandomInteger, checkLength} from "funcs.js"
+import {RandomInteger, checkLength} from 'funcs.js';
 
+const photos = [];
 function createObjects() {
-  const photos = [];
+
   for (let i = 1; i < 26; i++) {
     const photo = {
       id : i,
