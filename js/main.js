@@ -1,3 +1,1 @@
-import createObjects from 'createObjects.js';
-
-
+import './mini';

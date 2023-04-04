@@ -9,3 +9,6 @@ function checkLength(str, maxLength) {
     return false;
   }
 }
+
+export {RandomInteger};
+export {checkLength};
