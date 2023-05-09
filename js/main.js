@@ -1,4 +1,3 @@
-
 import './display.js';
 import './imageUpload.js';
 import './forms.js';
